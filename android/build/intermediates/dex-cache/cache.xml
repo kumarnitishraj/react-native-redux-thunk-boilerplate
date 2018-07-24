@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_c372e2cf31ca20c08fe4b5007462b128e497796a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/b83110dbf1b0f83a6ca04aaf89ecc0ff3418cf4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_f0f8dd18da99c032279ec681027dec1f34705eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/4998910cec4c4a7e86b2fa3adf06568611fd9aff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_89a01339c810a70b6ea9c9c251faeeedb148435e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/25b02ac7d8c9415a66ba5675b075a5bbdcf59ea8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_678b24c0a4c97d804aa507100436d7e6f63194a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/eeb39780803a3f84bf083c1ff3c074ae3b7ce0c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_00bc9abd448d98a73a0db80573225e659b9fea17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/a295f523f84ffa7288c7667ec813663ad603c1c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_7ed8c3363a0d68cfcd7dafda4d1bb93409da9efd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/4d8772dacd61ec1f151fc7835da7b105b26d96bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_bb718d44716f7c4698f76700198c2d0ff4d5ea5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_210b36cd372434951ee529b74a5ae347bfcb1407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/5a181a4bd010e9aaea9a9268f180c8438e4a6716/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_1677dfe5b037418c7ab22ae9251bd99cd542566b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/64ad3b1866db48a8a1eb2f81a075749757a879a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_907135a5425ed089f7f7a8dade51a9dc5b1ca9bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_1e3cfb23a1f028fbbf164bc2a1378453f306fbce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_33bcd40077d16459b66ace439dfb26d176d1ac0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/93c75608815cca4a5ef4121decfe050b83bb578b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_206517dc6a4bf61158851b46bfc5ac000b1b931f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_9732439c571ec3741612773e07b5da0c6a51faa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/9382c1845342de51a060c9adb97c93edfabceeb1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_f5848a9775d109f2d2792b9036c6ed0e66c7f78a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/8671f1bd730b604c19c0a82ab124faabc43d8e36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_524d7d0b7a34bd17d7caeed850a42a656afe2ee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/52d2f2e7c21b7792581f7dc8484a4cfabbd8c25c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_59fb298375709d98306f630cab52212e5ba993cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/1c35dcad8aa4822e891f6e7843519381bea0e8c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_df23e4d15ad5682c2ecc8596ba9e53b6e80b304f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_07434b18984ba461df6320e78f61cc3b899b1348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/124bcd0a674ea2888ea99b9194fff380f7c6a0ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_bc1fb3ecbac551d86c0e6756f846acae01619446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/6dac1c2464dbc813de6283db099cc6ade7346110/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_9a2684024104b34fafbd837292ad8f874f56d0cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b32fc910ff0dda10e144df65cff6541acda75d70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/5a181a4bd010e9aaea9a9268f180c8438e4a6716/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5d6da91d8dab344585f6631a6f949d331c51c219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_3bf433651d4a7d0ba29f370411252ceb2b1f7ae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/7907b4dca0d329bcca983aa66de7cf6c5a56d791/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_27073e93454e0338a516ddb724044856a16e9655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/614503d39a37f0560bdee41c8922ba6c1ee5bdd0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_d86b9cd9b5cc67fbafc64228eabcd4093650ef15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/dac497b0241a31be616260802f7b4b1ecd38850e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_2e78b695c362857946f5234d0513e8271ad7f434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.android/build-cache/dd6b9932080569a2a0dc053db007a5a544d7f4af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/classes_10f60072e4a159b5f09477d0b3f51d2b2df0453d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_9446e7ed6afa1675fa3a64372ccfb7aa76a7dd97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chetanrana/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Volumes/APPLAUNCH/Nitish/Work/Mobile/React/TEST/testApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_077a66af8a87a9920508ca9589ffa24830a3e946.jar" />
+    </item>
+
+</items>
